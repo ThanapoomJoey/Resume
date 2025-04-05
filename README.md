@@ -15,7 +15,7 @@ An independent and highly-motivated individual who has a passion for working in 
 ## 🚀 KEY PROJECTS
 
 ### 🟡 AWS Serverless Datalake Project
-- Designed and implemented a fully serverless datalake on AWS to process mock supermarket sales data with simulated daily uploads.
+- Designed and implemented a fully serverless datalake on AWS to process mock supermarket sales data with simulated daily uploads
 - **Optimizations:**
   - Reduced file size by **85.66%** (CSV → Parquet)
   - Reduced data scanned by **99.3%** through partitioning
@@ -27,7 +27,7 @@ An independent and highly-motivated individual who has a passion for working in 
 ---
 
 ### 🟢 AWS Data Warehouse Project
-- Built an automated data warehouse system on AWS to analyze supermarket sales data.
+- Built an automated data warehouse system on AWS to analyze supermarket sales data
 - Integrated daily incremental updates from S3 to Redshift via **Python/Boto3**
 - Transformed raw data into **Star Schema** using **DBT**
 - Ensured data quality using **DBT-Great Expectations**
@@ -41,7 +41,7 @@ An independent and highly-motivated individual who has a passion for working in 
 
 - **Programming & Tools:** Python (Pandas, Boto3), SQL, PySpark, DBT, Apache Airflow, Tableau  
 - **AWS Services:** S3, Glue, Athena, Redshift, QuickSight, IAM, EventBridge, CloudWatch, Step Functions, EC2  
-- **Data Engineering:** ETL Pipelines, Data Modeling , Serverless Datalake, Data Warehouse Design  
+- **Data Engineering:** ETL Pipelines, Data Modeling , Data Quality , Serverless Datalake, Data Warehouse Design
 - **Languages:** Thai (Native), Chinese (HSK4), English (Basic, improving through self-study)
 
 ---
@@ -49,18 +49,18 @@ An independent and highly-motivated individual who has a passion for working in 
 ## 🏢 PROFESSIONAL EXPERIENCE
 
 ### SELF-DIRECTED INVESTOR (2018–Present)
-- Grew investment portfolio from **200,000 THB** to **1,800,000 THB** through stocks and cryptocurrency.
-- Studied investment strategies and market trends independently, making informed decisions and adapting to changing conditions.
+- Grew investment portfolio from **200,000 THB** to **1,800,000 THB** through stocks and cryptocurrency
+- Studied investment strategies and market trends independently, making informed decisions and adapting to changing conditions
 
 ### FINANCIAL ADVISOR, BANGKOKLIFE (2022–2024)
-- Provided personalized financial planning, tax strategies, and investment advice.
-- Specialized in stocks, cryptocurrency, and life insurance.
-- Built client trust and honed analytical skills.
+- Provided personalized financial planning, tax strategies, and investment advice
+- Specialized in stocks, cryptocurrency, and life insurance
+- Built client trust and honed analytical skills
 
 ### ASSISTANT MANAGER, หจก.โรงสีไฟอึ้งเลียงเส็ง (2015–2021)
-- Managed daily operations, including worker supervision, machinery maintenance, and production timelines.
-- Reported directly to the owner.
-- Developed problem-solving and leadership skills.
+- Managed daily operations, including worker supervision, machinery maintenance, and production timelines
+- Reported directly to the owner
+- Developed problem-solving and leadership skills
 
 ---
 
